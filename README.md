@@ -9,29 +9,14 @@ Email: pramodsadaphule01@gmail.com
 
 A complete system for managing hospital operations: patients, appointments, staff, billing, and more.
 
-🚀 Table of Contents
-
-About the Project
-
-Features
-
-Architecture & Tech Stack
-
-Getting Started
-
-Prerequisites
-
-Database Setup
-
-Running the Application
-
-Usage
-
-Folder Structure
-
-Contributing
-
-Contact
+🚀 This database contain 7 tables:
+1. physician
+2. affiliated with
+3. Department
+4. Nurse
+5. Patient
+6. Patient Diagnosis
+7. Procedures 
 
 About the Project
 
@@ -80,20 +65,9 @@ Billing: Generate bills for services provided; track payments and outstanding am
 
 Reports: Use search/filters to extract meaningful data (e.g., patients per doctor, daily revenue).
 
-Screenshots are included (Screenshot 2025-11-12 221031.png) to give you a visual sense of the interface.
 
-Folder Structure
-hospital_management_system/
-├── hospital_management_system.sql         # Database schema
-├── hospital_management_quaries.sql        # Sample queries & data
-├── hospital management pdf.pptx           # Presentation / documentation
-├── Screenshot 2025-11-12 221031.png       # UI screenshot
-├── src/                                   # (if applicable) source code
-│   ├── controllers/
-│   ├── models/
-│   ├── views/
-│   └── config/
-└── README.md                              # This file
+<img width="553" height="367" alt="Screenshot 2025-11-12 221031" src="https://github.com/user-attachments/assets/8eb61e0c-7178-4caa-a05c-309787fb67d2" />
+
 
 Thank you for checking out this project 🙌
 Happy coding! 🎉
